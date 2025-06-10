@@ -34,13 +34,16 @@
     <img src="https://img.shields.io/badge/Jira-282C34?logo=Jira&logoColor=41B883" alt="Jira logo" title="Jira" height="30" />  
     <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="30" />  
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" width="100%"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" width="100%" height="50"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modernstacker&theme=dark" width="100%"/>
 
 ## 🛠️ Technical Skills
 ### WordPress, Shopify, Webflow, HubSpot, Woocommerce, React, Next.js, HTML, Tailwindcss, Javascript, Typescript, PHP, Node.js, Python, Express.js, APS.NET, JAVA, ...
-
+### 🎓 Education
+  👨‍🎓 Bachelor's Degree in Computer Science
 ## 💼 Professional Summary  
 **I'm an experienced and versatile Full Stack Developer with over 9 years of hands-on expertise, specializing in CMS and CRM development.
-      I craft scalable, user-centric platforms tailored to business goals — from dynamic web apps to custom CMS/CRM solutions.**
+      I craft scalable, user-centric platforms tailored to business goals — from dynamic web apps to custom CMS/CRM solutions.
+      I have deep proficiency in WordPress development, building custom themes, plugins, and full-scale solutions from scratch. My skill set extends across PHP, JavaScript, HTML, CSS, MySQL, and frameworks like React.js and Vue.js — enabling me to develop intuitive            interfaces and seamless backend integrations.
+      On the backend, I work extensively with Node.js, Express, REST APIs, and secure authentication flows, ensuring powerful, secure CRM systems with features like user role management, activity tracking, and third-party service integration.**
       </div>
