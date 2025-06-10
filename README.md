@@ -50,10 +50,11 @@ Here are some ideas to get you started:
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modernstacker&theme=dark" />
-
+<div style="width: 50%;">
     ## 🛠️ Technical Skills
     ### WordPress, Shopify, Webflow, HubSpot, Woocommerce, React, Next.js, HTML, Tailwindcss, Javascript, Typescript, PHP, Node.js, Python, Express.js, APS.NET, JAVA, ...
 
     ## 💼 Professional Summary  
     👋 I'm an experienced and versatile Full Stack Developer with over 9 years of hands-on expertise, specializing in CMS and CRM development.
       I craft scalable, user-centric platforms tailored to business goals — from dynamic web apps to custom CMS/CRM solutions.
+      </div>
