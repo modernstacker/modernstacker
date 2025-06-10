@@ -48,3 +48,4 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Wordpress-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />  
     <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=VS%20Code&logoColor=007ACC" alt="VS%20Code logo" title="VS%20Code" height="30" />
     </div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" />
