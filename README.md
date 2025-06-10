@@ -41,12 +41,10 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/MongoDB-282C34?logo=MongoDB&logoColor=41B883" alt="MongoDB logo" title="MongoDB" height="30" />  
     <img src="https://img.shields.io/badge/PostgreSQL-282C34?logo=PostgreSQL&logoColor=41B883" alt="PostgreSQL logo" title="PostgreSQL" height="30" />  
     <img src="https://img.shields.io/badge/firebase-282C34?logo=firebase&logoColor=FFCB2B" alt="firebase logo" title="firebase" height="30" />  
-    <img src="https://img.shields.io/badge/AWS-282C34?logo=AWS&logoColor=41B883" alt="AWS logo" title="AWS" height="30" />  
-    <img src="https://img.shields.io/badge/Scrum-282C34?logo=Scrum&logoColor=41B883" alt="Scrum logo" title="Scrum" height="30" />  
+    <img src="https://img.shields.io/badge/AWS-282C34?logo=AWS&logoColor=41B883" alt="AWS logo" title="AWS" height="30" />   
     <img src="https://img.shields.io/badge/Jira-282C34?logo=Jira&logoColor=41B883" alt="Jira logo" title="Jira" height="30" />  
     <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="30" />  
-    <img src="https://img.shields.io/badge/Wordpress-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />  
-    <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=VS%20Code&logoColor=007ACC" alt="VS%20Code logo" title="VS%20Code" height="30" />
+    <img src="https://img.shields.io/badge/Wordpress-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" />
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modernstacker&theme=dark" />
