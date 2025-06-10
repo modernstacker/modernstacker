@@ -1,7 +1,6 @@
 ## <h1 align="center"> Hello Everyone👋</h1>
-<div align="center">
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Welcome+to+My+Github;I'm+a+Web+Developer;I'm+a+Full+Stack+Developer)](https://git.io/typing-svg)
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
-</div>
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </h1>
