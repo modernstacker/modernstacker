@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## <h1 align="center"> Hello Everyone👋</h1>
+<h1 align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
+</h1>
 <!--
 **modernstacker/modernstacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -22,6 +24,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tailwindcss-282C34?logo=Tailwindcss&logoColor=F5517F" alt="Tailwindcss logo" title="TailwindCSS" height="30" />  
     <img src="https://img.shields.io/badge/Bootstrap-282C34?logo=Bootstrap&logoColor=F5517F" alt="Sass logo" title="Sass" height="30" />  
     <img src="https://img.shields.io/badge/Figma-282C34?logo=Figma&logoColor=F5517F" alt="Figma logo" title="Figma" height="30" />  
+    <img src="https://img.shields.io/badge/Wordpress-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
     <img src="https://img.shields.io/badge/JavaScript-282C34?logo=JavaScript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>  
     <img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" />  
     <img src="https://img.shields.io/badge/JQuery-282C34?logo=jQuery&logoColor=3178C6" alt="jQuery logo" title="jQuery" height="30" />  
@@ -44,10 +47,9 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/AWS-282C34?logo=AWS&logoColor=41B883" alt="AWS logo" title="AWS" height="30" />   
     <img src="https://img.shields.io/badge/Jira-282C34?logo=Jira&logoColor=41B883" alt="Jira logo" title="Jira" height="30" />  
     <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="30" />  
-    <img src="https://img.shields.io/badge/Wordpress-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
     </div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" width="100%"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modernstacker&theme=dark" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modernstacker&theme=dark" width="100%"/>
 
 ## 🛠️ Technical Skills
 ### WordPress, Shopify, Webflow, HubSpot, Woocommerce, React, Next.js, HTML, Tailwindcss, Javascript, Typescript, PHP, Node.js, Python, Express.js, APS.NET, JAVA, ...
