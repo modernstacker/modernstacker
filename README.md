@@ -46,13 +46,13 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=007ACC" alt="Docker logo" title="Docker" height="30" />  
     <img src="https://img.shields.io/badge/Wordpress-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" />
     </div>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=modernstacker&theme=dark&hide_progress=true&hide_border=true" width="100%"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=modernstacker&theme=dark" />
 
 ## 🛠️ Technical Skills
 ### WordPress, Shopify, Webflow, HubSpot, Woocommerce, React, Next.js, HTML, Tailwindcss, Javascript, Typescript, PHP, Node.js, Python, Express.js, APS.NET, JAVA, ...
 
 ## 💼 Professional Summary  
-    👋 I'm an experienced and versatile Full Stack Developer with over 9 years of hands-on expertise, specializing in CMS and CRM development.
-      I craft scalable, user-centric platforms tailored to business goals — from dynamic web apps to custom CMS/CRM solutions.
+**I'm an experienced and versatile Full Stack Developer with over 9 years of hands-on expertise, specializing in CMS and CRM development.
+      I craft scalable, user-centric platforms tailored to business goals — from dynamic web apps to custom CMS/CRM solutions.**
       </div>
