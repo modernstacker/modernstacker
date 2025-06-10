@@ -1,4 +1,5 @@
 ## <h1 align="center"> Hello Everyone👋</h1>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="100">
 <h1 align="center">
  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+github!;If+you+are+sparked+sth;from+my+repo;plz+give+me+star!!!&font=Fira%20Code&color=%23D62F79&center=true&width=280&height=50">
 </h1>
